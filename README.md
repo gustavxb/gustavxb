@@ -1,4 +1,4 @@
- Wassup? I'm Gustavo Bispo 🖐️
+## Wassup? I'm Gustavo Bispo 🖐️ </h3>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tavin.dz01)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavoo_61/)
@@ -6,7 +6,7 @@
 
 ![gustavxb GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavxb&show_icons=true&theme=tokyonight)
 
-Tecnologias e Linguagens
+## Tecnologias e Linguagens
 
 <h3 aling="center"> <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
