@@ -4,7 +4,7 @@
   <a href="https://www.youtube.com/@tavin.dz01">
     <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/gustavoo_61/">
+  <a href="https://www.instagram.com/gb1spoo/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.twitch.tv/gustavoo_061">
