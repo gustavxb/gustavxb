@@ -1,4 +1,4 @@
-<h2 align="center">Wassup? I'm Gustavo Bispo 🖐️</h2>
+<h1 align="center">Wassup? I'm Gustavo Bispo 🖐️</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/@tavin.dz01">
@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gustavxb&show_icons=true&theme=dark"/>
 </p>
 
-<h2 align="center">Tecnologias e Linguagens</h2>
+<h1 align="center">Tecnologias e Linguagens</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
