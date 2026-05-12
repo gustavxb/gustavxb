@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavxb&show_icons=true&theme=dark"/>
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)"/>
 </p>
 
 <h1 align="center">Tecnologias e Linguagens</h1>
