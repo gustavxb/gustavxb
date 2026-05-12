@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center" id="stats">
   <img scr="(https://github-readme-stats.vercel.app/api?username=gustavxb&show_icons=true&theme=transparent)">
 </p>
 
