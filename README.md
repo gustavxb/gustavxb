@@ -10,7 +10,7 @@
 </p>
 
 <p align="center" id="stats">
-  <img src="https://br.pinterest.com/santosdaijlle/memes/" width="250" align="center" style="margin-left: 20px;" />
+  <img src="<img width="306" height="350" alt="37e6546555565309406876ec766d5b05" src="https://github.com/user-attachments/assets/5998cf21-3eb0-4dc3-b8e5-64b40ba617e6" />" width="250" align="center" style="margin-left: 20px;" />
 </p>
 
 <h1 align="center">Tecnologias e Linguagens</h1>
