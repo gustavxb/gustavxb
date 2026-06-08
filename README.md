@@ -1,4 +1,3 @@
-<div style="background-image: url('h8495b356feb4e0d20633eeae56b59472.gif'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">  
 <h1 align="center">Wassup? I'm Gustavo Bispo 🖐️</h1>
 <br>
 <br>
@@ -46,4 +45,4 @@
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
-</div>
+
