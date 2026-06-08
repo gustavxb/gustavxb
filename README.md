@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gustavxb&show_icons=true&theme=transparent" />
 </p>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="center" style="margin-left: 20px;" />
 
 <h1 align="center">Tecnologias e Linguagens</h1>
 
@@ -33,7 +33,7 @@
 
 <div align="center"> 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laurafsv&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavxb&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
