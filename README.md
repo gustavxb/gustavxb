@@ -1,3 +1,4 @@
+<div style="background-image: url('h8495b356feb4e0d20633eeae56b59472.gif'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">  
 <h1 align="center">Wassup? I'm Gustavo Bispo 🖐️</h1>
 <br>
 <br>
@@ -10,14 +11,6 @@
   <a href="https://discord.com/channels/@lxckeet/"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gustavobispo/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<div style="background-image: url('h8495b356feb4e0d20633eeae56b59472.gif'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">
-  
-  <h2 align="center" style="color: white;">Olá, bem-vindo ao meu perfil!</h2>
-  <p align="center" style="color: white;">Aqui você pode colocar seus textos, ícones e informações normalmente.</p>
-  
-</div>
-
 
 <h1 align="center">Tecnologias e Linguagens</h1>
 <br>
@@ -53,3 +46,4 @@
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+</div>
