@@ -10,10 +10,8 @@
 </p>
 
 <p align="center" id="stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavxb&show_icons=true&theme=transparent" />
+  <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="center" style="margin-left: 20px;" />
 </p>
-
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="center" style="margin-left: 20px;" />
 
 <h1 align="center">Tecnologias e Linguagens</h1>
 
