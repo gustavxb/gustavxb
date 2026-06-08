@@ -11,7 +11,9 @@
   <a href="https://www.linkedin.com/in/gustavobispo/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<img src="8495b356feb4e0d20633eeae56b59472.gif" width="250" align="center" />
+<div align="center">
+  <img src="8495b356feb4e0d20633eeae56b59472.gif" width="500" />
+</div>
 
 <h1 align="center">Tecnologias e Linguagens</h1>
 <br>
@@ -47,4 +49,3 @@
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
-
