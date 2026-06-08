@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/gustavobispo/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<div style="background-image: url('https://seu-link-aqui.com'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">
+<div style="background-image: url('h8495b356feb4e0d20633eeae56b59472.gif'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">
   
   <h2 align="center" style="color: white;">Olá, bem-vindo ao meu perfil!</h2>
   <p align="center" style="color: white;">Aqui você pode colocar seus textos, ícones e informações normalmente.</p>
