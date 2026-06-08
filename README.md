@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/gustavobispo/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<img src=".gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="8495b356feb4e0d20633eeae56b59472.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <h1 align="center">Tecnologias e Linguagens</h1>
 <br>
