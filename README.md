@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full+Stack+Web+Developer;IT+Systems+Student;It+works+on+my+machine...)](https://git.io/typing-svg)
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&center=true&vCenter=true&lines=Full+Stack+Web+Developer;IT+Systems+Student;It+works+on+my+machine..." alt="Typing SVG" />
+  </a>
+</p>
 <h1 align="center">Wassup? I'm Gustavo Bispo 🖐️</h1>
 
 <p align="center">
