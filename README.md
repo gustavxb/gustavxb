@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thymeleaf-000000?style=for-the-badge&logo=thymeleaf&logoColor=white" />
 </p>
 <br>
 
