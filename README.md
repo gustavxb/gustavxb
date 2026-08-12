@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full+Stack+Web+Developer;IT+Systems+Student;It+works+on+my+machine...)](https://git.io/typing-svg)
 
 <h1 align="center">Wassup? I'm Gustavo Bispo 🖐️</h1>
 
