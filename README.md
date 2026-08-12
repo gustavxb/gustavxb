@@ -63,10 +63,6 @@
 
 <h2 align="center"> <img src="https://img.shields.io/badge/📊-Estatísticas-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=ffffff" /> </h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavxb&show_icons=true&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavxb&layout=compact&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" height="150" />
-</div>
 
 <br>
 
